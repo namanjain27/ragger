@@ -9,4 +9,7 @@ numpy
 langchain-huggingface
 langchain-core
 bs4
-langchain_community.document_loaders
+chromadb
+PyMuPDF
+python-docx
+python-pptx
