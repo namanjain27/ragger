@@ -1,0 +1,12 @@
+langchain[google-genai]
+retry
+requests
+pandas
+sentence_transformers
+datasets
+torch
+numpy
+langchain-huggingface
+langchain-core
+bs4
+langchain_community.document_loaders
